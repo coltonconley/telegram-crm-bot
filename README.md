@@ -22,7 +22,7 @@ A comprehensive CRM system built with FastAPI and React, integrated with Telegra
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/telegram-crm-bot.git
+git clone https://github.com/coltonconley/telegram-crm-bot.git
 cd telegram-crm-bot
 ```
 
